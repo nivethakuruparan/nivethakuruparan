@@ -59,9 +59,3 @@
 <img src="https://raw.githubusercontent.com/nivethakuruparan/nivethakuruparan/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nivethakuruparan/count.svg?"  />
-</div>
-
-###
