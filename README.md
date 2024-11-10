@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">👧 My pronouns are she/her<br>🏫 I’m a software engineer studying at McMaster University<br>📚 I’m currently learning Typescript<br>🛠️ Right now I'm working on a source code optimizer. Check it out here: <br>💻 Check out my portfolio here: <br>📫 Feel free to email me at nivetha.kuruparan@gmail.com</p>
+<p align="left">👧 My pronouns are she/her<br>🏫 I’m a software engineer studying at McMaster University<br>📚 I’m currently learning Typescript<br>🛠️ Right now I'm working on a source code optimizer, check it out <a href="https://nivethakuruparan.vercel.app/](https://github.com/ssm-lab/capstone--source-code-optimizer">here<a> <br>💻 Check out my personal portfolio <a href="https://nivethakuruparan.vercel.app/">here<a> <br>📫 Feel free to email me at nivetha.kuruparan@gmail.com</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
